@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<analyzerinfo checksum="783837527">
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3568:valueFlowReverse bailout: variable RetVal stopping on }" verbose="valueflow.cpp:3568:valueFlowReverse bailout: variable RetVal stopping on }">
+            <location file="Calc_Ab.c" line="101" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of RetVal" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of RetVal">
+            <location file="Calc_Ab.c" line="119" column="17"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of RetVal" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of RetVal">
+            <location file="Calc_Ab.c" line="129" column="17"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: akumulator is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: akumulator is changed in conditional block">
+            <location file="Calc_Ab.c" line="62" column="0"/>
+        </error>
+  <FileInfo check="ctu">
+<function-call call-id="Lib_Calc.h:41:6" call-funcname="Lib_Calc_MemS" call-argnr="1" file="Calc_Ab.c" line="55" col="18" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="Calc_Ab.c" line="87" col="38" call-argexpr="&temp_result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="Calc_Ab.c" line="90" col="38" call-argexpr="&temp_result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="Calc_Ab.c" line="93" col="38" call-argexpr="&temp_result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="Calc_Ab.c" line="96" col="38" call-argexpr="&temp_result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="Calc_Ab.c" line="119" col="38" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="Calc_Ab.c" line="129" col="38" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:41:6" call-funcname="Lib_Calc_MemS" call-argnr="1" file="Calc_Ab.c" line="134" col="30" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/>  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="Calc_Ab.h:49:16" my-argnr="1" my-argname="a" file="Calc_Ab.c" line="69" col="6" value="0"/>
+  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="Calc_Reset" lineNumber="52"/>
+    <functiondecl functionName="Calc_Set_A" lineNumber="60"/>
+    <functiondecl functionName="Calc_Get_A" lineNumber="66"/>
+    <functiondecl functionName="Calc_Oper" lineNumber="77"/>
+    <functiondecl functionName="Calc_Mem" lineNumber="108"/>
+    <functioncall functionName="CALC_ADD"/>
+    <functioncall functionName="CALC_DIV"/>
+    <functioncall functionName="CALC_MEM_ADD"/>
+    <functioncall functionName="CALC_MEM_STO"/>
+    <functioncall functionName="CALC_MEM_SUB"/>
+    <functioncall functionName="CALC_MEM_ZERO"/>
+    <functioncall functionName="CALC_MUL"/>
+    <functioncall functionName="CALC_SUB"/>
+    <functioncall functionName="CPU_TYPE_16"/>
+    <functioncall functionName="CPU_TYPE_32"/>
+    <functioncall functionName="CPU_TYPE_64"/>
+    <functioncall functionName="CPU_TYPE_8"/>
+    <functioncall functionName="HIGH_BYTE_FIRST"/>
+    <functioncall functionName="LOW_BYTE_FIRTS"/>
+    <functioncall functionName="LSB_FIRST"/>
+    <functioncall functionName="Lib_Calc_Add"/>
+    <functioncall functionName="Lib_Calc_Div"/>
+    <functioncall functionName="Lib_Calc_MemR"/>
+    <functioncall functionName="Lib_Calc_MemS"/>
+    <functioncall functionName="Lib_Calc_Mul"/>
+    <functioncall functionName="Lib_Calc_Sub"/>
+    <functioncall functionName="MSB_FIRST"/>
+    <functioncall functionName="a"/>
+    <functioncall functionName="akumulator"/>
+    <functioncall functionName="arg"/>
+    <functioncall functionName="arg2"/>
+    <functioncall functionName="break"/>
+    <functioncall functionName="default"/>
+    <functioncall functionName="if"/>
+    <functioncall functionName="op"/>
+    <functioncall functionName="result"/>
+    <functioncall functionName="switch"/>
+    <functioncall functionName="temp_result"/>
+  </FileInfo>
+</analyzerinfo>

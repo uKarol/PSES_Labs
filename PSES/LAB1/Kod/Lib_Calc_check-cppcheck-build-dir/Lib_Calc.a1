@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<analyzerinfo checksum="2839607506">
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="Lib_Calc.h:37:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="62" col="6" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:38:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="81" col="6" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:39:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="99" col="6" value="0"/>
+  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="Lib_Calc_Add" lineNumber="54"/>
+    <functiondecl functionName="Lib_Calc_Sub" lineNumber="72"/>
+    <functiondecl functionName="Lib_Calc_Mul" lineNumber="91"/>
+    <functiondecl functionName="Lib_Calc_Div" lineNumber="109"/>
+    <functiondecl functionName="Lib_Calc_MemS" lineNumber="138"/>
+    <functiondecl functionName="Lib_Calc_MemR" lineNumber="148"/>
+    <functioncall functionName="CPU_TYPE_16"/>
+    <functioncall functionName="CPU_TYPE_32"/>
+    <functioncall functionName="CPU_TYPE_64"/>
+    <functioncall functionName="CPU_TYPE_8"/>
+    <functioncall functionName="HIGH_BYTE_FIRST"/>
+    <functioncall functionName="LOW_BYTE_FIRTS"/>
+    <functioncall functionName="LSB_FIRST"/>
+    <functioncall functionName="MSB_FIRST"/>
+    <functioncall functionName="arg1"/>
+    <functioncall functionName="arg2"/>
+    <functioncall functionName="if"/>
+    <functioncall functionName="int32_t"/>
+    <functioncall functionName="int64_t"/>
+    <functioncall functionName="mem"/>
+    <functioncall functionName="tmp"/>
+  </FileInfo>
+</analyzerinfo>

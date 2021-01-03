@@ -1,0 +1,1070 @@
+<?xml version="1.0"?>
+<analyzerinfo checksum="818514874">
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3015:valueFlowTerminatingCondition bailout: Skipping function due to incomplete variable stdout" verbose="valueflow.cpp:3015:valueFlowTerminatingCondition bailout: Skipping function due to incomplete variable stdout">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1014" column="16"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_colorize_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_colorize_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="536" column="7"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_timer_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_timer_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="614" column="11"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3568:valueFlowReverse bailout: variable result stopping on }" verbose="valueflow.cpp:3568:valueFlowReverse bailout: variable result stopping on }">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="619" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_timer_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_timer_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="626" column="11"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3697:valueFlowBeforeCondition bailout: variable n used in loop" verbose="valueflow.cpp:3697:valueFlowBeforeCondition bailout: variable n used in loop">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="646" column="13"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of lastsep" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of lastsep">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="696" column="25"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of test_cond_failed_" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of test_cond_failed_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="713" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_verbose_level_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_verbose_level_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="738" column="7"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of line_end" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of line_end">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="769" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3568:valueFlowReverse bailout: variable truncate stopping on }" verbose="valueflow.cpp:3568:valueFlowReverse bailout: variable truncate stopping on }">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="800" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3697:valueFlowBeforeCondition bailout: variable substr used in loop" verbose="valueflow.cpp:3697:valueFlowBeforeCondition bailout: variable substr used in loop">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="916" column="18"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of starts_on_word_boundary" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of starts_on_word_boundary">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="917" column="13"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of ends_on_word_boundary" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of ends_on_word_boundary">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="918" column="13"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_verbose_level_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_verbose_level_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="981" column="11"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3568:valueFlowReverse bailout: variable test_verbose_level_ stopping on }" verbose="valueflow.cpp:3568:valueFlowReverse bailout: variable test_verbose_level_ stopping on }">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="987" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_worker_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_worker_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1017" column="11"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_verbose_level_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_verbose_level_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1031" column="11"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_current_failures_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_current_failures_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1033" column="15"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_timer_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_timer_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1037" column="17"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_was_aborted_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_was_aborted_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1045" column="19"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_current_failures_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_current_failures_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1048" column="59"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_current_failures_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_current_failures_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1049" column="59"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_verbose_level_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_verbose_level_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1055" column="44"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3568:valueFlowReverse bailout: variable test_current_failures_ stopping on }" verbose="valueflow.cpp:3568:valueFlowReverse bailout: variable test_current_failures_ stopping on }">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1055" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3568:valueFlowReverse bailout: variable test_current_failures_ stopping on }" verbose="valueflow.cpp:3568:valueFlowReverse bailout: variable test_current_failures_ stopping on }">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1057" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_no_exec_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_no_exec_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1104" column="7"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3568:valueFlowReverse bailout: variable failed stopping on }" verbose="valueflow.cpp:3568:valueFlowReverse bailout: variable failed stopping on }">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1198" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3568:valueFlowReverse bailout: variable ret stopping on }" verbose="valueflow.cpp:3568:valueFlowReverse bailout: variable ret stopping on }">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1268" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3586:valueFlowReverse bailout: variable after_doubledash is assigned in loop. so valueflow analysis bailout when start of loop is reached." verbose="valueflow.cpp:3586:valueFlowReverse bailout: variable after_doubledash is assigned in loop. so valueflow analysis bailout when start of loop is reached.">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1292" column="21"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of ret" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of ret">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1340" column="29"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of assignment" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of assignment">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1362" column="31"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3568:valueFlowReverse bailout: variable ret stopping on }" verbose="valueflow.cpp:3568:valueFlowReverse bailout: variable ret stopping on }">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1376" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3606:valueFlowReverse bailout: variable arg stopping on break" verbose="valueflow.cpp:3606:valueFlowReverse bailout: variable arg stopping on break">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1460" column="18"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3606:valueFlowReverse bailout: variable arg stopping on break" verbose="valueflow.cpp:3606:valueFlowReverse bailout: variable arg stopping on break">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1507" column="18"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3606:valueFlowReverse bailout: variable arg stopping on break" verbose="valueflow.cpp:3606:valueFlowReverse bailout: variable arg stopping on break">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1515" column="18"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_xml_output_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_xml_output_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1546" column="16"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_details_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_details_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1657" column="7"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_count_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_count_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1676" column="7"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_count_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_count_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1685" column="11"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_tap_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_tap_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1704" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_worker_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_worker_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1714" column="11"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3586:valueFlowReverse bailout: variable test_skip_mode_ is assigned in loop. so valueflow analysis bailout when start of loop is reached." verbose="valueflow.cpp:3586:valueFlowReverse bailout: variable test_skip_mode_ is assigned in loop. so valueflow analysis bailout when start of loop is reached.">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1719" column="49"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of run" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of run">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1722" column="13"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3568:valueFlowReverse bailout: variable run stopping on }" verbose="valueflow.cpp:3568:valueFlowReverse bailout: variable run stopping on }">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1722" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_no_summary_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_no_summary_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1728" column="26"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3568:valueFlowReverse bailout: variable test_verbose_level_ stopping on }" verbose="valueflow.cpp:3568:valueFlowReverse bailout: variable test_verbose_level_ stopping on }">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1716" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3484:valueFlowReverse bailout: no simplification of test_verbose_level_ within &amp;&amp; expression" verbose="valueflow.cpp:3484:valueFlowReverse bailout: no simplification of test_verbose_level_ within &amp;&amp; expression">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1728" column="29"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3568:valueFlowReverse bailout: variable test_stat_failed_units_ stopping on }" verbose="valueflow.cpp:3568:valueFlowReverse bailout: variable test_stat_failed_units_ stopping on }">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1736" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_stat_failed_units_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_stat_failed_units_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1745" column="52"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_xml_output_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_xml_output_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1752" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_stat_failed_units_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_stat_failed_units_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1780" column="43"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="22" column="34"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="22" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="27" column="35"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="27" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="35" column="38"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="35" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="41" column="40"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="41" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="47" column="43"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="47" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="55" column="43"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="55" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="61" column="52"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="61" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="68" column="45"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="68" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="75" column="54"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="75" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="93" column="34"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="93" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="98" column="35"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="98" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="108" column="44"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="108" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="114" column="53"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="114" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="121" column="44"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="121" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="128" column="54"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="128" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="139" column="34"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="139" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="144" column="35"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="144" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="151" column="35"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="151" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="159" column="44"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="159" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="174" column="44"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="174" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="179" column="54"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="179" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="184" column="43"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="184" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="189" column="52"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="189" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="194" column="43"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="194" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="201" column="34"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="201" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of result by subfunction">
+            <location file="UT_Lib_Calc.c" line="206" column="44"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of retv">
+            <location file="UT_Lib_Calc.c" line="206" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of result" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of result">
+            <location file="UT_Lib_Calc.c" line="219" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of result" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of result">
+            <location file="UT_Lib_Calc.c" line="223" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of result" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of result">
+            <location file="UT_Lib_Calc.c" line="228" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of result" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of result">
+            <location file="UT_Lib_Calc.c" line="232" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_colorize_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_colorize_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="538" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_tap_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_tap_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="603" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="602" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="600" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_tap_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_tap_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="632" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: result==0&amp;&amp;test_timer_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: result==0&amp;&amp;test_timer_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="618" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_timer_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_timer_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="618" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: result==0&amp;&amp;test_timer_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: result==0&amp;&amp;test_timer_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="629" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_timer_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_timer_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="629" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_tap_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_tap_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="644" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_tap_&amp;&amp;n&gt;0 is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_tap_&amp;&amp;n&gt;0 is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="644" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: n is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: n is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="644" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_current_already_logged_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_current_already_logged_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="666" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: !test_current_already_logged_&amp;&amp;test_current_unit_!=NULL is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: !test_current_already_logged_&amp;&amp;test_current_unit_!=NULL is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="666" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_current_unit_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_current_unit_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="666" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_case_current_already_logged_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_case_current_already_logged_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="683" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: !test_case_current_already_logged_&amp;&amp;test_case_name_[0] is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: !test_case_current_already_logged_&amp;&amp;test_case_name_[0] is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="683" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_case_name_[0] is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_case_name_[0] is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="683" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: file is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: file is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="701" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_case_name_[0] is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_case_name_[0] is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="728" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="743" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: size is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: size is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="800" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_abort_has_jmp_buf_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_abort_has_jmp_buf_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="871" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_current_unit_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_current_unit_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="869" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(test_list_[i].name,pattern) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(test_list_[i].name,pattern) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="941" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_name_contains_word_(test_list_[i].name,pattern) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_name_contains_word_(test_list_[i].name,pattern) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="951" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strstr(test_list_[i].name,pattern) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strstr(test_list_[i].name,pattern) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="961" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="987" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="982" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="991" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: setjmp(test_abort_jmp_buf_) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: setjmp(test_abort_jmp_buf_) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1022" column="13"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1057" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_current_failures_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_current_failures_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1053" column="13"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_timer_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_timer_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1042" column="17"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_was_aborted_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_was_aborted_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1052" column="17"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_&gt;=1&amp;&amp;test_current_failures_==0 is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_&gt;=1&amp;&amp;test_current_failures_==0 is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1057" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_current_failures_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_current_failures_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1057" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_no_exec_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_no_exec_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1198" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;id is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;id is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1260" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;id!=0&amp;&amp;!(opt-&gt;flags&amp;0x0002) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;id!=0&amp;&amp;!(opt-&gt;flags&amp;0x0002) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1260" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;flags&amp;0x0002 is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;flags&amp;0x0002 is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1260" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: after_doubledash is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: after_doubledash is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1376" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: after_doubledash||strcmp(argv[i],&quot;-&quot;)==0 is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: after_doubledash||strcmp(argv[i],&quot;-&quot;)==0 is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1376" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(argv[i],&quot;-&quot;) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(argv[i],&quot;-&quot;) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1376" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(argv[i],&quot;--&quot;) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(argv[i],&quot;--&quot;) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1376" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: argv[i][0] is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: argv[i][0] is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1376" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;longname is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;longname is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1349" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;longname!=NULL&amp;&amp;strncmp(argv[i],&quot;--&quot;,2)==0 is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;longname!=NULL&amp;&amp;strncmp(argv[i],&quot;--&quot;,2)==0 is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1349" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strncmp(argv[i],&quot;--&quot;,2) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strncmp(argv[i],&quot;--&quot;,2) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1328" column="17"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strncmp(argv[i]+2,opt-&gt;longname,len) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strncmp(argv[i]+2,opt-&gt;longname,len) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1327" column="21"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: argv[i][2+len] is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: argv[i][2+len] is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1326" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;flags&amp;0x0002 is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;flags&amp;0x0002 is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1311" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: argv[i][2+len] is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: argv[i][2+len] is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1324" column="25"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;flags&amp;(0x0001|0x0002) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;flags&amp;(0x0001|0x0002) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1319" column="29"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;shortname is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;shortname is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1349" column="17"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;shortname!=&apos;\0&apos;&amp;&amp;argv[i][0]==&apos;-&apos; is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;shortname!=&apos;\0&apos;&amp;&amp;argv[i][0]==&apos;-&apos; is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1349" column="17"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: argv[i][0] is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: argv[i][0] is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1349" column="17"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;flags&amp;0x0002 is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: opt-&gt;flags&amp;0x0002 is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1347" column="25"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: argv[i][2] is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: argv[i][2] is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1337" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: ret is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: ret is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1345" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: ret==0&amp;&amp;argv[i][2]!=&apos;\0&apos; is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: ret==0&amp;&amp;argv[i][2]!=&apos;\0&apos; is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1345" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: argv[i][2] is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: argv[i][2] is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1345" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: argv[i][0] is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: argv[i][0] is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1374" column="17"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strncmp(badoptname,&quot;--&quot;,2) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strncmp(badoptname,&quot;--&quot;,2) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1371" column="21"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: len is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: len is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1366" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_list_size_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_list_size_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1427" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: arg==NULL||strcmp(arg,&quot;always&quot;)==0 is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: arg==NULL||strcmp(arg,&quot;always&quot;)==0 is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1473" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(arg,&quot;always&quot;) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(arg,&quot;always&quot;) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1473" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(arg,&quot;never&quot;) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(arg,&quot;never&quot;) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1473" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(arg,&quot;auto&quot;) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(arg,&quot;auto&quot;) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1473" column="13"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: arg==NULL||strcmp(arg,&quot;always&quot;)==0 is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: arg==NULL||strcmp(arg,&quot;always&quot;)==0 is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1528" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(arg,&quot;always&quot;) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(arg,&quot;always&quot;) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1528" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(arg,&quot;never&quot;) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(arg,&quot;never&quot;) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1528" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(arg,&quot;auto&quot;) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(arg,&quot;auto&quot;) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1528" column="13"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_xml_output_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_xml_output_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1549" column="13"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_lookup_(arg) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_lookup_(arg) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1557" column="13"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_details_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_details_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1660" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_count_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_count_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1679" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_no_exec_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_no_exec_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1702" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_tap_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_tap_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1716" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1709" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_worker_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_worker_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1715" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_no_summary_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_no_summary_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1750" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: !test_no_summary_&amp;&amp;test_verbose_level_&gt;=1 is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: !test_no_summary_&amp;&amp;test_verbose_level_&gt;=1 is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1750" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1750" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1736" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_stat_failed_units_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_stat_failed_units_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1746" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_verbose_level_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1749" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_xml_output_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_xml_output_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1776" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: details-&gt;flags&amp;TEST_FLAG_FAILURE_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: details-&gt;flags&amp;TEST_FLAG_FAILURE_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1769" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: details-&gt;flags&amp;TEST_FLAG_FAILURE_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: details-&gt;flags&amp;TEST_FLAG_FAILURE_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1771" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: !(details-&gt;flags&amp;TEST_FLAG_FAILURE_)&amp;&amp;!(details-&gt;flags&amp;TEST_FLAG_SUCCESS_) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: !(details-&gt;flags&amp;TEST_FLAG_FAILURE_)&amp;&amp;!(details-&gt;flags&amp;TEST_FLAG_SUCCESS_) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1771" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: details-&gt;flags&amp;TEST_FLAG_SUCCESS_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: details-&gt;flags&amp;TEST_FLAG_SUCCESS_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1771" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:7317:valueFlowFunctionReturn bailout: function return; nontrivial function body" verbose="valueflow.cpp:7317:valueFlowFunctionReturn bailout: function return; nontrivial function body">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1085" column="15"/>
+        </error>
+  <FileInfo check="ctu">
+<function-call call-id="acutest.h:525:1" call-funcname="test_print_in_color_" call-argnr="3" file="acutest.h" line="680" col="33" call-argexpr="test_case_name_" call-argvaluetype="7" call-argvalue="64"/><function-call call-id="acutest.h:525:1" call-funcname="test_print_in_color_" call-argnr="3" file="acutest.h" line="740" col="29" call-argexpr="test_case_name_" call-argvaluetype="7" call-argvalue="64"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1025" col="29" call-argexpr="&test_timer_start_" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1029" col="29" call-argexpr="&test_timer_end_" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:607:1" call-funcname="test_finish_test_line_" call-argnr="1" file="acutest.h" line="1056" col="35" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:362:6" call-funcname="test_case_" call-argnr="1" file="acutest.h" line="1085" col="15" call-argexpr="NULL" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1102" col="25" call-argexpr="&start" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1102" col="25" call-argexpr="start" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1199" col="25" call-argexpr="&end" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1199" col="25" call-argexpr="end" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="acutest.h:408:1" call-funcname="test_exit_" call-argnr="1" file="acutest.h" line="1506" col="23" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:408:1" call-funcname="test_exit_" call-argnr="1" file="acutest.h" line="1537" col="23" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:1280:1" call-funcname="test_cmdline_read_" call-argnr="1" file="acutest.h" line="1663" col="23" call-argexpr="test_cmdline_options_" call-argvaluetype="7" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="1" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="2" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="27" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="35" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="41" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="47" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="55" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="61" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="68" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="75" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="1" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="2" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="98" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="108" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="114" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="121" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="128" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="1" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="2" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="144" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="151" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="159" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="174" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="174" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="179" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="184" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="189" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="2" file="UT_Lib_Calc.c" line="194" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="194" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="1" file="UT_Lib_Calc.c" line="201" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="2" file="UT_Lib_Calc.c" line="201" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="201" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="2" file="UT_Lib_Calc.c" line="206" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="206" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:41:6" call-funcname="Lib_Calc_MemS" call-argnr="1" file="UT_Lib_Calc.c" line="218" col="18" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/>  </FileInfo>
+  <FileInfo check="Bounds checking">
+    <array-index>
+    <unsafe-usage my-id="acutest.h:1634:1" my-argnr="2" my-argname="argv" file="acutest.h" line="1637" col="19" value="0"/>
+    </array-index>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="1" my-argname="name" file="acutest.h" line="915" col="21" value="0"/>
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="2" my-argname="pattern" file="acutest.h" line="913" col="26" value="0"/>
+    <unsafe-usage my-id="acutest.h:1244:1" my-argnr="2" my-argname="arggroup" file="acutest.h" line="1252" col="16" value="0"/>
+    <unsafe-usage my-id="acutest.h:1634:1" my-argnr="2" my-argname="argv" file="acutest.h" line="1637" col="19" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:37:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="62" col="6" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:38:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="81" col="6" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:39:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="99" col="6" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="1" my-argname="name" file="acutest.h" line="915" col="21" value="0"/>
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="2" my-argname="pattern" file="acutest.h" line="913" col="26" value="0"/>
+    <unsafe-usage my-id="acutest.h:1244:1" my-argnr="2" my-argname="arggroup" file="acutest.h" line="1252" col="16" value="0"/>
+  </FileInfo>
+        <error id="purgedConfiguration" severity="information" msg="The configuration &apos;_BORLANDC_&apos; was not checked because its code equals another one." verbose="The configuration &apos;_BORLANDC_&apos; was not checked because its code equals another one.">
+            <location file="UT_Lib_Calc.c" line="0" column="0"/>
+        </error>
+        <error id="purgedConfiguration" severity="information" msg="The configuration &apos;_MSC_VER&apos; was not checked because its code equals another one." verbose="The configuration &apos;_MSC_VER&apos; was not checked because its code equals another one.">
+            <location file="UT_Lib_Calc.c" line="0" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3568:valueFlowReverse bailout: variable attr stopping on }" verbose="valueflow.cpp:3568:valueFlowReverse bailout: variable attr stopping on }">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="572" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of lastsep1" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of lastsep1">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="688" column="25"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of lastsep2" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of lastsep2">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="689" column="25"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_timer_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_timer_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1164" column="50"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_tap_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_tap_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1165" column="28"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_colorize_" verbose="valueflow.cpp:3615:valueFlowReverse bailout: global variable test_colorize_">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1166" column="33"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of exitCode by subfunction" verbose="valueflow.cpp:3469:valueFlowReverse bailout: possible assignment of exitCode by subfunction">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1172" column="55"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3606:valueFlowReverse bailout: variable arg stopping on break" verbose="valueflow.cpp:3606:valueFlowReverse bailout: variable arg stopping on break">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1478" column="18"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: lastsep1 is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: lastsep1 is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="691" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: lastsep2 is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: lastsep2 is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="693" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: CreateProcessA(NULL,buffer,NULL,NULL,FALSE,0,NULL,NULL,&amp;startupInfo,&amp;processInfo) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: CreateProcessA(NULL,buffer,NULL,NULL,FALSE,0,NULL,NULL,&amp;startupInfo,&amp;processInfo) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1186" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: arg==NULL||strcmp(arg,&quot;real&quot;)==0 is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: arg==NULL||strcmp(arg,&quot;real&quot;)==0 is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1492" column="13"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(arg,&quot;real&quot;) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: strcmp(arg,&quot;real&quot;) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1492" column="13"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_count_ is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_count_ is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1701" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: IsDebuggerPresent() is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: IsDebuggerPresent() is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1690" column="0"/>
+        </error>
+  <FileInfo check="ctu">
+<function-call call-id="acutest.h:525:1" call-funcname="test_print_in_color_" call-argnr="3" file="acutest.h" line="680" col="33" call-argexpr="test_case_name_" call-argvaluetype="7" call-argvalue="64"/><function-call call-id="acutest.h:525:1" call-funcname="test_print_in_color_" call-argnr="3" file="acutest.h" line="740" col="29" call-argexpr="test_case_name_" call-argvaluetype="7" call-argvalue="64"/><function-call call-id="acutest.h:607:1" call-funcname="test_finish_test_line_" call-argnr="1" file="acutest.h" line="1056" col="35" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:362:6" call-funcname="test_case_" call-argnr="1" file="acutest.h" line="1085" col="15" call-argexpr="NULL" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:895:1" call-funcname="test_set_success_" call-argnr="2" file="acutest.h" line="1207" col="22" call-argexpr="!failed" call-argvaluetype="0" call-argvalue="0">
+  <path file="acutest.h" line="1185" col="22" info="Assignment 'failed=1', assigned value is 1"/>
+</function-call><function-call call-id="acutest.h:361:5" call-funcname="test_check_" call-argnr="1" file="acutest.h" line="1216" col="16" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:361:5" call-funcname="test_check_" call-argnr="2" file="acutest.h" line="1216" col="16" call-argexpr="NULL" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:361:5" call-funcname="test_check_" call-argnr="3" file="acutest.h" line="1216" col="16" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:408:1" call-funcname="test_exit_" call-argnr="1" file="acutest.h" line="1506" col="23" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:408:1" call-funcname="test_exit_" call-argnr="1" file="acutest.h" line="1537" col="23" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:1280:1" call-funcname="test_cmdline_read_" call-argnr="1" file="acutest.h" line="1663" col="23" call-argexpr="test_cmdline_options_" call-argvaluetype="7" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="1" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="2" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="27" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="35" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="41" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="47" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="55" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="61" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="68" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="75" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="1" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="2" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="98" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="108" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="114" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="121" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="128" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="1" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="2" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="144" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="151" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="159" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="174" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="174" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="179" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="184" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="189" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="2" file="UT_Lib_Calc.c" line="194" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="194" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="1" file="UT_Lib_Calc.c" line="201" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="2" file="UT_Lib_Calc.c" line="201" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="201" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="2" file="UT_Lib_Calc.c" line="206" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="206" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:41:6" call-funcname="Lib_Calc_MemS" call-argnr="1" file="UT_Lib_Calc.c" line="218" col="18" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/>  </FileInfo>
+  <FileInfo check="Bounds checking">
+    <array-index>
+    <unsafe-usage my-id="acutest.h:1634:1" my-argnr="2" my-argname="argv" file="acutest.h" line="1637" col="19" value="0"/>
+    </array-index>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="1" my-argname="name" file="acutest.h" line="915" col="21" value="0"/>
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="2" my-argname="pattern" file="acutest.h" line="913" col="26" value="0"/>
+    <unsafe-usage my-id="acutest.h:1214:1" my-argnr="1" my-argname="ptrs" file="acutest.h" line="1217" col="49" value="0"/>
+    <unsafe-usage my-id="acutest.h:1244:1" my-argnr="2" my-argname="arggroup" file="acutest.h" line="1252" col="16" value="0"/>
+    <unsafe-usage my-id="acutest.h:1634:1" my-argnr="2" my-argname="argv" file="acutest.h" line="1637" col="19" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:37:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="62" col="6" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:38:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="81" col="6" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:39:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="99" col="6" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="1" my-argname="name" file="acutest.h" line="915" col="21" value="0"/>
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="2" my-argname="pattern" file="acutest.h" line="913" col="26" value="0"/>
+    <unsafe-usage my-id="acutest.h:1244:1" my-argnr="2" my-argname="arggroup" file="acutest.h" line="1252" col="16" value="0"/>
+  </FileInfo>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of pid" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of pid">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1115" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of failed" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of failed">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1122" column="13"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: WIFEXITED(exit_code) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: WIFEXITED(exit_code) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1150" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: WIFSIGNALED(exit_code) is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: WIFSIGNALED(exit_code) is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1150" column="13"/>
+        </error>
+  <FileInfo check="ctu">
+<function-call call-id="acutest.h:525:1" call-funcname="test_print_in_color_" call-argnr="3" file="acutest.h" line="680" col="33" call-argexpr="test_case_name_" call-argvaluetype="7" call-argvalue="64"/><function-call call-id="acutest.h:525:1" call-funcname="test_print_in_color_" call-argnr="3" file="acutest.h" line="740" col="29" call-argexpr="test_case_name_" call-argvaluetype="7" call-argvalue="64"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1025" col="29" call-argexpr="&test_timer_start_" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1029" col="29" call-argexpr="&test_timer_end_" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:607:1" call-funcname="test_finish_test_line_" call-argnr="1" file="acutest.h" line="1056" col="35" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:362:6" call-funcname="test_case_" call-argnr="1" file="acutest.h" line="1085" col="15" call-argexpr="NULL" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1102" col="25" call-argexpr="&start" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1102" col="25" call-argexpr="start" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="acutest.h:408:1" call-funcname="test_exit_" call-argnr="1" file="acutest.h" line="1123" col="23" call-argexpr="failed?1:0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1199" col="25" call-argexpr="&end" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1199" col="25" call-argexpr="end" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="acutest.h:895:1" call-funcname="test_set_success_" call-argnr="2" file="acutest.h" line="1207" col="22" call-argexpr="!failed" call-argvaluetype="0" call-argvalue="0">
+  <path file="acutest.h" line="1118" col="22" info="Assignment 'failed=1', assigned value is 1"/>
+</function-call><function-call call-id="acutest.h:408:1" call-funcname="test_exit_" call-argnr="1" file="acutest.h" line="1506" col="23" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:408:1" call-funcname="test_exit_" call-argnr="1" file="acutest.h" line="1537" col="23" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:1280:1" call-funcname="test_cmdline_read_" call-argnr="1" file="acutest.h" line="1663" col="23" call-argexpr="test_cmdline_options_" call-argvaluetype="7" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="1" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="2" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="27" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="35" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="41" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="47" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="55" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="61" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="68" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="75" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="1" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="2" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="98" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="108" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="114" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="121" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="128" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="1" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="2" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="144" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="151" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="159" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="174" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="174" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="179" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="184" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="189" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="2" file="UT_Lib_Calc.c" line="194" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="194" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="1" file="UT_Lib_Calc.c" line="201" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="2" file="UT_Lib_Calc.c" line="201" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="201" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="2" file="UT_Lib_Calc.c" line="206" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="206" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:41:6" call-funcname="Lib_Calc_MemS" call-argnr="1" file="UT_Lib_Calc.c" line="218" col="18" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/>  </FileInfo>
+  <FileInfo check="Bounds checking">
+    <array-index>
+    <unsafe-usage my-id="acutest.h:1634:1" my-argnr="2" my-argname="argv" file="acutest.h" line="1637" col="19" value="0"/>
+    </array-index>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="1" my-argname="name" file="acutest.h" line="915" col="21" value="0"/>
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="2" my-argname="pattern" file="acutest.h" line="913" col="26" value="0"/>
+    <unsafe-usage my-id="acutest.h:1244:1" my-argnr="2" my-argname="arggroup" file="acutest.h" line="1252" col="16" value="0"/>
+    <unsafe-usage my-id="acutest.h:1634:1" my-argnr="2" my-argname="argv" file="acutest.h" line="1637" col="19" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:37:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="62" col="6" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:38:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="81" col="6" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:39:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="99" col="6" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="1" my-argname="name" file="acutest.h" line="915" col="21" value="0"/>
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="2" my-argname="pattern" file="acutest.h" line="913" col="26" value="0"/>
+    <unsafe-usage my-id="acutest.h:1244:1" my-argnr="2" my-argname="arggroup" file="acutest.h" line="1252" col="16" value="0"/>
+  </FileInfo>
+  <FileInfo check="ctu">
+<function-call call-id="acutest.h:525:1" call-funcname="test_print_in_color_" call-argnr="3" file="acutest.h" line="680" col="33" call-argexpr="test_case_name_" call-argvaluetype="7" call-argvalue="64"/><function-call call-id="acutest.h:525:1" call-funcname="test_print_in_color_" call-argnr="3" file="acutest.h" line="740" col="29" call-argexpr="test_case_name_" call-argvaluetype="7" call-argvalue="64"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1025" col="29" call-argexpr="&test_timer_start_" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1029" col="29" call-argexpr="&test_timer_end_" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:607:1" call-funcname="test_finish_test_line_" call-argnr="1" file="acutest.h" line="1056" col="35" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:362:6" call-funcname="test_case_" call-argnr="1" file="acutest.h" line="1085" col="15" call-argexpr="NULL" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1102" col="25" call-argexpr="&start" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1102" col="25" call-argexpr="start" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1199" col="25" call-argexpr="&end" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1199" col="25" call-argexpr="end" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="acutest.h:408:1" call-funcname="test_exit_" call-argnr="1" file="acutest.h" line="1506" col="23" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:408:1" call-funcname="test_exit_" call-argnr="1" file="acutest.h" line="1537" col="23" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:1280:1" call-funcname="test_cmdline_read_" call-argnr="1" file="acutest.h" line="1663" col="23" call-argexpr="test_cmdline_options_" call-argvaluetype="7" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="1" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="2" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="27" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="35" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="41" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="47" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="55" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="61" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="68" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="75" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="1" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="2" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="98" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="108" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="114" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="121" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="128" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="1" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="2" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="144" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="151" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="159" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="174" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="174" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="179" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="184" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="189" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="2" file="UT_Lib_Calc.c" line="194" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="194" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="1" file="UT_Lib_Calc.c" line="201" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="2" file="UT_Lib_Calc.c" line="201" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="201" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="2" file="UT_Lib_Calc.c" line="206" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="206" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:41:6" call-funcname="Lib_Calc_MemS" call-argnr="1" file="UT_Lib_Calc.c" line="218" col="18" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/>  </FileInfo>
+  <FileInfo check="Bounds checking">
+    <array-index>
+    <unsafe-usage my-id="acutest.h:1634:1" my-argnr="2" my-argname="argv" file="acutest.h" line="1637" col="19" value="0"/>
+    </array-index>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="1" my-argname="name" file="acutest.h" line="915" col="21" value="0"/>
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="2" my-argname="pattern" file="acutest.h" line="913" col="26" value="0"/>
+    <unsafe-usage my-id="acutest.h:1244:1" my-argnr="2" my-argname="arggroup" file="acutest.h" line="1252" col="16" value="0"/>
+    <unsafe-usage my-id="acutest.h:1634:1" my-argnr="2" my-argname="argv" file="acutest.h" line="1637" col="19" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:37:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="62" col="6" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:38:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="81" col="6" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:39:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="99" col="6" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="1" my-argname="name" file="acutest.h" line="915" col="21" value="0"/>
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="2" my-argname="pattern" file="acutest.h" line="913" col="26" value="0"/>
+    <unsafe-usage my-id="acutest.h:1244:1" my-argnr="2" my-argname="arggroup" file="acutest.h" line="1252" col="16" value="0"/>
+  </FileInfo>
+        <error id="purgedConfiguration" severity="information" msg="The configuration &apos;__has_include&apos; was not checked because its code equals another one." verbose="The configuration &apos;__has_include&apos; was not checked because its code equals another one.">
+            <location file="UT_Lib_Calc.c" line="0" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of fd" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of fd">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1595" column="5"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of n" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of n">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1606" column="13"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of field" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of field">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1613" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:3403:valueFlowReverse bailout: assignment of tracer_pid" verbose="valueflow.cpp:3403:valueFlowReverse bailout: assignment of tracer_pid">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1615" column="19"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: field!=NULL&amp;&amp;field&lt;buf+sizeof(buf)-OVERLAP is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: field!=NULL&amp;&amp;field&lt;buf+sizeof(buf)-OVERLAP is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1618" column="9"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_is_tracer_present_() is changed in conditional block" verbose="valueflow.cpp:6197:afterCondition bailout: valueFlowAfterCondition: test_is_tracer_present_() is changed in conditional block">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1694" column="0"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:7317:valueFlowFunctionReturn bailout: function return; nontrivial function body" verbose="valueflow.cpp:7317:valueFlowFunctionReturn bailout: function return; nontrivial function body">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1693" column="39"/>
+        </error>
+        <error id="valueFlowBailout" severity="debug" msg="valueflow.cpp:7317:valueFlowFunctionReturn bailout: function return; nontrivial function body" verbose="valueflow.cpp:7317:valueFlowFunctionReturn bailout: function return; nontrivial function body">
+            <location file0="UT_Lib_Calc.c" file="acutest.h" line="1585" column="24"/>
+        </error>
+  <FileInfo check="ctu">
+<function-call call-id="acutest.h:525:1" call-funcname="test_print_in_color_" call-argnr="3" file="acutest.h" line="680" col="33" call-argexpr="test_case_name_" call-argvaluetype="7" call-argvalue="64"/><function-call call-id="acutest.h:525:1" call-funcname="test_print_in_color_" call-argnr="3" file="acutest.h" line="740" col="29" call-argexpr="test_case_name_" call-argvaluetype="7" call-argvalue="64"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1025" col="29" call-argexpr="&test_timer_start_" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1029" col="29" call-argexpr="&test_timer_end_" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:607:1" call-funcname="test_finish_test_line_" call-argnr="1" file="acutest.h" line="1056" col="35" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:362:6" call-funcname="test_case_" call-argnr="1" file="acutest.h" line="1085" col="15" call-argexpr="NULL" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1102" col="25" call-argexpr="&start" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1102" col="25" call-argexpr="start" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1199" col="25" call-argexpr="&end" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="acutest.h:499:5" call-funcname="test_timer_get_time_" call-argnr="1" file="acutest.h" line="1199" col="25" call-argexpr="end" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="acutest.h:408:1" call-funcname="test_exit_" call-argnr="1" file="acutest.h" line="1506" col="23" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:408:1" call-funcname="test_exit_" call-argnr="1" file="acutest.h" line="1537" col="23" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="acutest.h:1280:1" call-funcname="test_cmdline_read_" call-argnr="1" file="acutest.h" line="1663" col="23" call-argexpr="test_cmdline_options_" call-argvaluetype="7" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="1" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="2" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="22" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="27" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="35" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="41" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="47" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="55" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="61" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="68" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:37:16" call-funcname="Lib_Calc_Add" call-argnr="3" file="UT_Lib_Calc.c" line="75" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="1" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="2" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="93" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="98" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="108" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="114" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="121" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:38:16" call-funcname="Lib_Calc_Sub" call-argnr="3" file="UT_Lib_Calc.c" line="128" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="1" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="2" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="139" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="144" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="151" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:39:16" call-funcname="Lib_Calc_Mul" call-argnr="3" file="UT_Lib_Calc.c" line="159" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="174" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="174" col="24" call-argexpr="result" call-argvaluetype="4" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="179" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="184" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="189" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="2" file="UT_Lib_Calc.c" line="194" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="194" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="1" file="UT_Lib_Calc.c" line="201" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="2" file="UT_Lib_Calc.c" line="201" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="201" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="2" file="UT_Lib_Calc.c" line="206" col="24" call-argexpr="0L" call-argvaluetype="0" call-argvalue="0"/><function-call call-id="Lib_Calc.h:40:16" call-funcname="Lib_Calc_Div" call-argnr="3" file="UT_Lib_Calc.c" line="206" col="24" call-argexpr="&result" call-argvaluetype="7" call-argvalue="4"/><function-call call-id="Lib_Calc.h:41:6" call-funcname="Lib_Calc_MemS" call-argnr="1" file="UT_Lib_Calc.c" line="218" col="18" call-argexpr="0" call-argvaluetype="0" call-argvalue="0"/>  </FileInfo>
+  <FileInfo check="Bounds checking">
+    <array-index>
+    <unsafe-usage my-id="acutest.h:1634:1" my-argnr="2" my-argname="argv" file="acutest.h" line="1637" col="19" value="0"/>
+    </array-index>
+  </FileInfo>
+  <FileInfo check="Null pointer">
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="1" my-argname="name" file="acutest.h" line="915" col="21" value="0"/>
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="2" my-argname="pattern" file="acutest.h" line="913" col="26" value="0"/>
+    <unsafe-usage my-id="acutest.h:1244:1" my-argnr="2" my-argname="arggroup" file="acutest.h" line="1252" col="16" value="0"/>
+    <unsafe-usage my-id="acutest.h:1634:1" my-argnr="2" my-argname="argv" file="acutest.h" line="1637" col="19" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:37:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="62" col="6" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:38:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="81" col="6" value="0"/>
+    <unsafe-usage my-id="Lib_Calc.h:39:16" my-argnr="3" my-argname="result" file="Lib_Calc.c" line="99" col="6" value="0"/>
+  </FileInfo>
+  <FileInfo check="Uninitialized variables">
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="1" my-argname="name" file="acutest.h" line="915" col="21" value="0"/>
+    <unsafe-usage my-id="acutest.h:907:1" my-argnr="2" my-argname="pattern" file="acutest.h" line="913" col="26" value="0"/>
+    <unsafe-usage my-id="acutest.h:1244:1" my-argnr="2" my-argname="arggroup" file="acutest.h" line="1252" col="16" value="0"/>
+  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="Test_Of_Lib_Calc_Add" lineNumber="17"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Sub" lineNumber="88"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Mul" lineNumber="134"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Div" lineNumber="167"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_MemS" lineNumber="214"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Add" lineNumber="17"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Sub" lineNumber="88"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Mul" lineNumber="134"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Div" lineNumber="167"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_MemS" lineNumber="214"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Add" lineNumber="17"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Sub" lineNumber="88"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Mul" lineNumber="134"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Div" lineNumber="167"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_MemS" lineNumber="214"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Add" lineNumber="17"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Sub" lineNumber="88"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Mul" lineNumber="134"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Div" lineNumber="167"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_MemS" lineNumber="214"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Add" lineNumber="17"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Sub" lineNumber="88"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Mul" lineNumber="134"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_Div" lineNumber="167"/>
+    <functiondecl functionName="Test_Of_Lib_Calc_MemS" lineNumber="214"/>
+    <functioncall functionName="BYTES_PER_LINE"/>
+    <functioncall functionName="CPU_TYPE_16"/>
+    <functioncall functionName="CPU_TYPE_32"/>
+    <functioncall functionName="CPU_TYPE_64"/>
+    <functioncall functionName="CPU_TYPE_8"/>
+    <functioncall functionName="CloseHandle"/>
+    <functioncall functionName="CreateProcessA"/>
+    <functioncall functionName="ExceptionAddress"/>
+    <functioncall functionName="ExceptionCode"/>
+    <functioncall functionName="FALSE"/>
+    <functioncall functionName="GetConsoleScreenBufferInfo"/>
+    <functioncall functionName="GetExitCodeProcess"/>
+    <functioncall functionName="GetLastError"/>
+    <functioncall functionName="GetStdHandle"/>
+    <functioncall functionName="HIGH_BYTE_FIRST"/>
+    <functioncall functionName="IsDebuggerPresent"/>
+    <functioncall functionName="LOW_BYTE_FIRTS"/>
+    <functioncall functionName="LSB_FIRST"/>
+    <functioncall functionName="Lib_Calc_Add"/>
+    <functioncall functionName="Lib_Calc_Div"/>
+    <functioncall functionName="Lib_Calc_MemR"/>
+    <functioncall functionName="Lib_Calc_MemS"/>
+    <functioncall functionName="Lib_Calc_Mul"/>
+    <functioncall functionName="Lib_Calc_Sub"/>
+    <functioncall functionName="MSB_FIRST"/>
+    <functioncall functionName="NULL"/>
+    <functioncall functionName="OVERLAP"/>
+    <functioncall functionName="O_RDONLY"/>
+    <functioncall functionName="QuadPart"/>
+    <functioncall functionName="QueryPerformanceCounter"/>
+    <functioncall functionName="QueryPerformanceFrequency"/>
+    <functioncall functionName="STARTUPINFO"/>
+    <functioncall functionName="STDOUT_FILENO"/>
+    <functioncall functionName="SetConsoleTextAttribute"/>
+    <functioncall functionName="SetUnhandledExceptionFilter"/>
+    <functioncall functionName="TEST_FLAG_FAILURE_"/>
+    <functioncall functionName="TEST_FLAG_SUCCESS_"/>
+    <functioncall functionName="Test_Of_Lib_Calc_Add"/>
+    <functioncall functionName="Test_Of_Lib_Calc_Div"/>
+    <functioncall functionName="Test_Of_Lib_Calc_MemS"/>
+    <functioncall functionName="Test_Of_Lib_Calc_Mul"/>
+    <functioncall functionName="Test_Of_Lib_Calc_Sub"/>
+    <functioncall functionName="WEXITSTATUS"/>
+    <functioncall functionName="WIFEXITED"/>
+    <functioncall functionName="WIFSIGNALED"/>
+    <functioncall functionName="WTERMSIG"/>
+    <functioncall functionName="WaitForSingleObject"/>
+    <functioncall functionName="_MAX_FNAME"/>
+    <functioncall functionName="_fileno"/>
+    <functioncall functionName="_isatty"/>
+    <functioncall functionName="_snprintf"/>
+    <functioncall functionName="_splitpath"/>
+    <functioncall functionName="abort"/>
+    <functioncall functionName="aborted"/>
+    <functioncall functionName="addr"/>
+    <functioncall functionName="arg"/>
+    <functioncall functionName="arg1"/>
+    <functioncall functionName="arg2"/>
+    <functioncall functionName="argc"/>
+    <functioncall functionName="args"/>
+    <functioncall functionName="argv"/>
+    <functioncall functionName="atoi"/>
+    <functioncall functionName="attr"/>
+    <functioncall functionName="auxbuf"/>
+    <functioncall functionName="badoptname"/>
+    <functioncall functionName="basename"/>
+    <functioncall functionName="break"/>
+    <functioncall functionName="buf"/>
+    <functioncall functionName="buffer"/>
+    <functioncall functionName="byte"/>
+    <functioncall functionName="callback"/>
+    <functioncall functionName="calloc"/>
+    <functioncall functionName="case"/>
+    <functioncall functionName="close"/>
+    <functioncall functionName="col_str"/>
+    <functioncall functionName="color"/>
+    <functioncall functionName="cond"/>
+    <functioncall functionName="continue"/>
+    <functioncall functionName="default"/>
+    <functioncall functionName="double"/>
+    <functioncall functionName="duration"/>
+    <functioncall functionName="end"/>
+    <functioncall functionName="errno"/>
+    <functioncall functionName="exit"/>
+    <functioncall functionName="exitCode"/>
+    <functioncall functionName="exit_code"/>
+    <functioncall functionName="failed"/>
+    <functioncall functionName="fclose"/>
+    <functioncall functionName="fd"/>
+    <functioncall functionName="fflush"/>
+    <functioncall functionName="file"/>
+    <functioncall functionName="fmt"/>
+    <functioncall functionName="fopen"/>
+    <functioncall functionName="for"/>
+    <functioncall functionName="fork"/>
+    <functioncall functionName="fprintf"/>
+    <functioncall functionName="free"/>
+    <functioncall functionName="func"/>
+    <functioncall functionName="h"/>
+    <functioncall functionName="hProcess"/>
+    <functioncall functionName="hThread"/>
+    <functioncall functionName="i"/>
+    <functioncall functionName="id"/>
+    <functioncall functionName="if"/>
+    <functioncall functionName="index"/>
+    <functioncall functionName="info"/>
+    <functioncall functionName="int"/>
+    <functioncall functionName="int32_t"/>
+    <functioncall functionName="int64_t"/>
+    <functioncall functionName="isatty"/>
+    <functioncall functionName="iscntrl"/>
+    <functioncall functionName="lastsep1"/>
+    <functioncall functionName="lastsep2"/>
+    <functioncall functionName="len"/>
+    <functioncall functionName="line"/>
+    <functioncall functionName="line_beg"/>
+    <functioncall functionName="long"/>
+    <functioncall functionName="longjmp"/>
+    <functioncall functionName="longname"/>
+    <functioncall functionName="master_index"/>
+    <functioncall functionName="mem"/>
+    <functioncall functionName="memmove"/>
+    <functioncall functionName="memset"/>
+    <functioncall functionName="n"/>
+    <functioncall functionName="n_read"/>
+    <functioncall functionName="name"/>
+    <functioncall functionName="off"/>
+    <functioncall functionName="open"/>
+    <functioncall functionName="options"/>
+    <functioncall functionName="pattern"/>
+    <functioncall functionName="pattern_len"/>
+    <functioncall functionName="pid"/>
+    <functioncall functionName="pid_t"/>
+    <functioncall functionName="printf"/>
+    <functioncall functionName="processInfo"/>
+    <functioncall functionName="read"/>
+    <functioncall functionName="result"/>
+    <functioncall functionName="result_color"/>
+    <functioncall functionName="result_str"/>
+    <functioncall functionName="return"/>
+    <functioncall functionName="run"/>
+    <functioncall functionName="setjmp"/>
+    <functioncall functionName="shortname"/>
+    <functioncall functionName="signame"/>
+    <functioncall functionName="size"/>
+    <functioncall functionName="sizeof"/>
+    <functioncall functionName="spaces"/>
+    <functioncall functionName="sprintf"/>
+    <functioncall functionName="start"/>
+    <functioncall functionName="startupInfo"/>
+    <functioncall functionName="stderr"/>
+    <functioncall functionName="stdout"/>
+    <functioncall functionName="str"/>
+    <functioncall functionName="strchr"/>
+    <functioncall functionName="strcmp"/>
+    <functioncall functionName="strerror"/>
+    <functioncall functionName="strlen"/>
+    <functioncall functionName="strncmp"/>
+    <functioncall functionName="strncpy"/>
+    <functioncall functionName="strrchr"/>
+    <functioncall functionName="strstr"/>
+    <functioncall functionName="suite_name"/>
+    <functioncall functionName="switch"/>
+    <functioncall functionName="test"/>
+    <functioncall functionName="test_abort_has_jmp_buf_"/>
+    <functioncall functionName="test_abort_jmp_buf_"/>
+    <functioncall functionName="test_argv0_"/>
+    <functioncall functionName="test_begin_test_line_"/>
+    <functioncall functionName="test_case_"/>
+    <functioncall functionName="test_case_name_"/>
+    <functioncall functionName="test_check_"/>
+    <functioncall functionName="test_cleanup_"/>
+    <functioncall functionName="test_cmdline_callback_"/>
+    <functioncall functionName="test_cmdline_handle_short_opt_group_"/>
+    <functioncall functionName="test_cmdline_options_"/>
+    <functioncall functionName="test_cmdline_read_"/>
+    <functioncall functionName="test_colorize_"/>
+    <functioncall functionName="test_cond_failed_"/>
+    <functioncall functionName="test_count_"/>
+    <functioncall functionName="test_current_failures_"/>
+    <functioncall functionName="test_details_"/>
+    <functioncall functionName="test_do_run_"/>
+    <functioncall functionName="test_error_"/>
+    <functioncall functionName="test_exit_"/>
+    <functioncall functionName="test_fini_"/>
+    <functioncall functionName="test_finish_test_line_"/>
+    <functioncall functionName="test_help_"/>
+    <functioncall functionName="test_init_"/>
+    <functioncall functionName="test_is_tracer_present_"/>
+    <functioncall functionName="test_line_indent_"/>
+    <functioncall functionName="test_list_"/>
+    <functioncall functionName="test_list_names_"/>
+    <functioncall functionName="test_list_size_"/>
+    <functioncall functionName="test_lookup_"/>
+    <functioncall functionName="test_message_"/>
+    <functioncall functionName="test_name"/>
+    <functioncall functionName="test_name_contains_word_"/>
+    <functioncall functionName="test_no_exec_"/>
+    <functioncall functionName="test_print_in_color_"/>
+    <functioncall functionName="test_remember_"/>
+    <functioncall functionName="test_run_"/>
+    <functioncall functionName="test_seh_exception_filter_"/>
+    <functioncall functionName="test_set_duration_"/>
+    <functioncall functionName="test_set_success_"/>
+    <functioncall functionName="test_skip_mode_"/>
+    <functioncall functionName="test_stat_failed_units_"/>
+    <functioncall functionName="test_stat_run_units_"/>
+    <functioncall functionName="test_tap_"/>
+    <functioncall functionName="test_timer_"/>
+    <functioncall functionName="test_timer_diff_"/>
+    <functioncall functionName="test_timer_end_"/>
+    <functioncall functionName="test_timer_freq_"/>
+    <functioncall functionName="test_timer_get_time_"/>
+    <functioncall functionName="test_timer_init_"/>
+    <functioncall functionName="test_timer_print_diff_"/>
+    <functioncall functionName="test_timer_start_"/>
+    <functioncall functionName="test_verbose_level_"/>
+    <functioncall functionName="test_was_aborted_"/>
+    <functioncall functionName="test_worker_"/>
+    <functioncall functionName="test_worker_index_"/>
+    <functioncall functionName="test_xml_output_"/>
+    <functioncall functionName="title"/>
+    <functioncall functionName="tmp"/>
+    <functioncall functionName="truncate"/>
+    <functioncall functionName="ts"/>
+    <functioncall functionName="va_end"/>
+    <functioncall functionName="va_start"/>
+    <functioncall functionName="void"/>
+    <functioncall functionName="vprintf"/>
+    <functioncall functionName="vsnprintf"/>
+    <functioncall functionName="wAttributes"/>
+    <functioncall functionName="waitpid"/>
+    <functioncall functionName="while"/>
+    <functioncall functionName="word_delim"/>
+  </FileInfo>
+</analyzerinfo>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="2.2"/>
+    <errors>
+        <error id="ConfigurationNotChecked" severity="information" msg="Skipping configuration &amp;#039;CLOCK_MONOTONIC;CLOCK_PROCESS_CPUTIME_ID;__APPLE__;__unix;__unix__;unix&amp;#039; since the value of &amp;#039;CLOCK_MONOTONIC&amp;#039; is unknown. Use -D if you want to check it. You can use -U to skip it explicitly." verbose="Skipping configuration &amp;#039;CLOCK_MONOTONIC;CLOCK_PROCESS_CPUTIME_ID;__APPLE__;__unix;__unix__;unix&amp;#039; since the value of &amp;#039;CLOCK_MONOTONIC&amp;#039; is unknown. Use -D if you want to check it. You can use -U to skip it explicitly." sinceDate="27.12.2020">
+            <location file="acutest.h" line="455"/>
+        </error>
+        <error id="ConfigurationNotChecked" severity="information" msg="Skipping configuration &amp;#039;CLOCK_MONOTONIC;CLOCK_PROCESS_CPUTIME_ID;__APPLE__;__unix;__unix__;unix&amp;#039; since the value of &amp;#039;CLOCK_PROCESS_CPUTIME_ID&amp;#039; is unknown. Use -D if you want to check it. You can use -U to skip it explicitly." verbose="Skipping configuration &amp;#039;CLOCK_MONOTONIC;CLOCK_PROCESS_CPUTIME_ID;__APPLE__;__unix;__unix__;unix&amp;#039; since the value of &amp;#039;CLOCK_PROCESS_CPUTIME_ID&amp;#039; is unknown. Use -D if you want to check it. You can use -U to skip it explicitly." sinceDate="27.12.2020">
+            <location file="acutest.h" line="457"/>
+        </error>
+        <error id="ConfigurationNotChecked" severity="information" msg="Skipping configuration &amp;#039;RUNNING_ON_VALGRIND&amp;#039; since the value of &amp;#039;RUNNING_ON_VALGRIND&amp;#039; is unknown. Use -D if you want to check it. You can use -U to skip it explicitly." verbose="Skipping configuration &amp;#039;RUNNING_ON_VALGRIND&amp;#039; since the value of &amp;#039;RUNNING_ON_VALGRIND&amp;#039; is unknown. Use -D if you want to check it. You can use -U to skip it explicitly." sinceDate="27.12.2020">
+            <location file="acutest.h" line="1698"/>
+        </error>
+        <error id="ConfigurationNotChecked" severity="information" msg="Skipping configuration &amp;#039;TEST_FINI&amp;#039; since the value of &amp;#039;TEST_FINI&amp;#039; is unknown. Use -D if you want to check it. You can use -U to skip it explicitly." verbose="Skipping configuration &amp;#039;TEST_FINI&amp;#039; since the value of &amp;#039;TEST_FINI&amp;#039; is unknown. Use -D if you want to check it. You can use -U to skip it explicitly." sinceDate="27.12.2020">
+            <location file="acutest.h" line="854"/>
+        </error>
+        <error id="ConfigurationNotChecked" severity="information" msg="Skipping configuration &amp;#039;TEST_INIT&amp;#039; since the value of &amp;#039;TEST_INIT&amp;#039; is unknown. Use -D if you want to check it. You can use -U to skip it explicitly." verbose="Skipping configuration &amp;#039;TEST_INIT&amp;#039; since the value of &amp;#039;TEST_INIT&amp;#039; is unknown. Use -D if you want to check it. You can use -U to skip it explicitly." sinceDate="27.12.2020">
+            <location file="acutest.h" line="841"/>
+        </error>
+        <error id="purgedConfiguration" severity="information" msg="The configuration &amp;#039;_BORLANDC_&amp;#039; was not checked because its code equals another one." verbose="The configuration &amp;#039;_BORLANDC_&amp;#039; was not checked because its code equals another one." sinceDate="27.12.2020">
+            <location file="UT_Calc_Ab.c" line="0"/>
+        </error>
+        <error id="purgedConfiguration" severity="information" msg="The configuration &amp;#039;_MSC_VER&amp;#039; was not checked because its code equals another one." verbose="The configuration &amp;#039;_MSC_VER&amp;#039; was not checked because its code equals another one." sinceDate="27.12.2020">
+            <location file="UT_Calc_Ab.c" line="0"/>
+        </error>
+        <error id="purgedConfiguration" severity="information" msg="The configuration &amp;#039;__has_include&amp;#039; was not checked because its code equals another one." verbose="The configuration &amp;#039;__has_include&amp;#039; was not checked because its code equals another one." sinceDate="27.12.2020">
+            <location file="UT_Calc_Ab.c" line="0"/>
+        </error>
+        <error id="purgedConfiguration" severity="information" msg="The configuration &amp;#039;_BORLANDC_&amp;#039; was not checked because its code equals another one." verbose="The configuration &amp;#039;_BORLANDC_&amp;#039; was not checked because its code equals another one." sinceDate="27.12.2020">
+            <location file="UT_Lib_Calc.c" line="0"/>
+        </error>
+        <error id="purgedConfiguration" severity="information" msg="The configuration &amp;#039;_MSC_VER&amp;#039; was not checked because its code equals another one." verbose="The configuration &amp;#039;_MSC_VER&amp;#039; was not checked because its code equals another one." sinceDate="27.12.2020">
+            <location file="UT_Lib_Calc.c" line="0"/>
+        </error>
+        <error id="purgedConfiguration" severity="information" msg="The configuration &amp;#039;__has_include&amp;#039; was not checked because its code equals another one." verbose="The configuration &amp;#039;__has_include&amp;#039; was not checked because its code equals another one." sinceDate="27.12.2020">
+            <location file="UT_Lib_Calc.c" line="0"/>
+        </error>
+    </errors>
+</results>
