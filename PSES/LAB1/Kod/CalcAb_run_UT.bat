@@ -7,4 +7,5 @@ cd bins
 UT_Calc_Ab.exe
 cd ..
 gcov UT_Calc_Ab.c
+python -m gcovr -r . --html --html-details -o coverage.html
 pause

@@ -10,15 +10,6 @@
 #include "Lib_Calc.c"   /* To nie pomyłka - taki include eksponuje zmienne statyczne dla testów */
 
 
-#include <stdlib.h>
-#include <time.h>
-
-sint32 get_random_arg(sint32 min, sint32 max){
-  srand(time(0));
-  return (rand()%max + min);
-}
-
-
 /**
   @brief Test dodawania
 
@@ -141,6 +132,11 @@ void Test_Of_Lib_Calc_Sub(void)
     TEST_CHECK(retv == E_OK);
 }
 
+/**
+  @brief Test mnozenia
+
+  Funkcja testująca mnozenie w bibliotece. 
+*/
 void Test_Of_Lib_Calc_Mul(void)
 {
     sint32 result;
@@ -171,9 +167,18 @@ void Test_Of_Lib_Calc_Mul(void)
     TEST_CHECK(result == 0L);
     TEST_CHECK(retv == E_NOT_OK);
 
+    retv = Lib_Calc_Mul(0x7FFFFFFFL, 2L, &result);
+
+    TEST_CHECK(result == 0xFFFFFFFEL);
+    TEST_CHECK(retv == E_NOT_OK);
+
 
 }
+/**
+  @brief Test dzielenia
 
+  Funkcja testująca dzielenie w bibliotece. Funkcje testowe acutest nie mogą zwracać ani przyjmować danych!
+*/
 void Test_Of_Lib_Calc_Div(void)
 {
     sint32 result;
@@ -222,7 +227,11 @@ void Test_Of_Lib_Calc_Div(void)
 
     
 }
+/**
+  @brief Test zapisu i odczytu pamieci
 
+  Funkcja testująca zapis i odczyt pamieci kalkulatora 
+*/
 void Test_Of_Lib_Calc_MemS(void)
 {
     sint32 result;
